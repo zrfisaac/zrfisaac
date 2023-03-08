@@ -8,7 +8,7 @@ rem # . - email : zrfisaac@gmail.com
 rem # . - site : zrfisaac.github.io
 rem # - base : zrfisaac.pt.batch.modelo - 0.0.1
 rem # - descricao : modelo basico de script batch
-rem # - versao : zrfisaac.pt.batch.download - 0.0.1
+rem # - versao : zrfisaac.pt.batch.download - 0.0.2
 
 rem # [ batch ]
 
@@ -70,7 +70,7 @@ if "0" equ "0" (
 										set _pasta=!_s1!
 										set _s1=!_s1!\%%z
 									)
-									if "!_i0!" neq "0" if "!_i0!" neq "1" mkdir "%c_caminho%!_pasta!"
+									if "!_i0!" neq "0" if "!_i0!" neq "1" if not exist "%c_caminho%!_pasta!" mkdir "%c_caminho%!_pasta!"
 									powershell -Command "(New-Object Net.WebClient).DownloadFile('!_powershell!', '!_caminho!')"
 								)
 							)
