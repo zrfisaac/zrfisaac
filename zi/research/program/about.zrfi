@@ -1,0 +1,17 @@
+# [ zrfisaac ]
+
+# [ about ]
+# - author : Isaac Santana
+# . - email : zrfisaac@gmail.com
+# . - site : zrfisaac.github.io
+# - base : none
+# - description : none
+# - version : zrfisaac.zi.research.program.about - 0.0.1
+
+# [ path ]
+
+# - : 7zip/7z2201.exe
+# . - powershell : https://www.7-zip.org/a/7z2201.exe
+
+# - : 7zip/7z2201-x64.exe
+# . - powershell : https://www.7-zip.org/a/7z2201-x64.exe
