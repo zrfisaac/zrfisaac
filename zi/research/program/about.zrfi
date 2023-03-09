@@ -6,7 +6,7 @@
 # . - site : zrfisaac.github.io
 # - base : none
 # - description : none
-# - version : zrfisaac.zi.research.program.about - 0.0.1
+# - version : zrfisaac.zi.research.program.about - 0.0.2
 
 # [ path ]
 
@@ -15,3 +15,36 @@
 
 # - : 7zip/7z2201-x64.exe
 # . - powershell : https://www.7-zip.org/a/7z2201-x64.exe
+
+# - : android-studio/android-studio-2022.1.1.21-windows.exe
+# . - powershell : https://redirector.gvt1.com/edgedl/android/studio/install/2022.1.1.21/android-studio-2022.1.1.21-windows.exe
+
+# - : git/Git-2.39.2-32-bit.exe
+# . - powershell : https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-32-bit.exe
+
+# - : git/Git-2.39.2-64-bit.exe
+# . - powershell : https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-64-bit.exe
+
+# - : nodejs/node-v18.15.0-x64.msi
+# . - powershell : https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi
+
+# - : nodejs/node-v18.15.0-x86.msi
+# . - powershell : https://nodejs.org/dist/v18.15.0/node-v18.15.0-x86.msi
+
+# - : nsis/nsis-3.08-setup.exe
+# . - powershell : https://downloads.sourceforge.net/project/nsis/NSIS%203/3.08/nsis-3.08-setup.exe
+
+# - : qbittorrent/qbittorrent_4.5.2_x64_setup.exe
+# . - powershell : https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.5.2/qbittorrent_4.5.2_x64_setup.exe
+
+# - : sumatra-pdf/SumatraPDF-3.4.6-install.exe
+# . - powershell : https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe
+
+# - : sumatra-pdf/SumatraPDF-3.4.6-64-install.exe
+# . - powershell : https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe
+
+# - : vlc/vlc-3.0.18-win32.exe
+# . - powershell : https://mirror.turbozoneinternet.net.br/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe
+
+# - : vlc/vlc-3.0.18-win64.exe
+# . - powershell : https://mirror.turbozoneinternet.net.br/videolan/vlc/3.0.18/win64/vlc-3.0.18-win64.exe
