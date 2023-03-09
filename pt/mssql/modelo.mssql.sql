@@ -5,8 +5,8 @@
 -- # . - email : zrfisaac@gmail.com
 -- # . - site : zrfisaac.github.io
 -- # - base : nenhum
--- # - descricao : modelo basico de script batch
--- # - versao : zrfisaac.pt.mssql.modelo - 0.0.1
+-- # - descricao : nenhum
+-- # - versao : zrfisaac.pt.mssql.modelo - 0.0.2
 
 -- # [ mssql ]
 SELECT
