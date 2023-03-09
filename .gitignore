@@ -6,13 +6,14 @@
 # . - site : zrfisaac.github.io
 # - base : none
 # - description : none
-# - version : zrfisaac.gitignore - 0.0.2
+# - version : zrfisaac.gitignore - 0.0.3
 
 # [ gitignore ]
 
 # : - binary
 *.exe
 *.dll
+*.iso
 *.msi
 *.zip
 
