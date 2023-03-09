@@ -1,0 +1,18 @@
+# [ zrfisaac ]
+
+# [ about ]
+# - author : Isaac Santana
+# . - email : zrfisaac@gmail.com
+# . - site : zrfisaac.github.io
+# - base : none
+# - description : none
+# - version : zrfisaac.zi.resource.os.about - 0.0.1
+
+# [ path ]
+
+# - : archlinux/archlinux-2023.03.01-x86_64.iso
+# . - powershell : http://br.mirror.archlinux-br.org/iso/2023.03.01/archlinux-2023.03.01-x86_64.iso
+# . - powershell : http://archlinux.c3sl.ufpr.br/iso/2023.03.01/archlinux-2023.03.01-x86_64.iso
+
+# - : windows/MediaCreationTool22H2.exe
+# . - powershell : https://go.microsoft.com/fwlink/?LinkId=691209
