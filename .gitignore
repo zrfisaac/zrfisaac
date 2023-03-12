@@ -6,17 +6,27 @@
 # . - site : zrfisaac.github.io
 # - base : none
 # - description : none
-# - version : zrfisaac.gitignore - 0.0.4
+# - version : zrfisaac.gitignore - 0.0.5
 
 # [ gitignore ]
 
 # : - binary
+*.avi
+*.bak
+*.db
 *.exe
 *.dll
+*.fdb
 *.iso
 *.jpeg
 *.jpg
+*.mp3
+*.mp4
 *.msi
+*.ogg
+*.pdf
+*.tpz
+*.vbox-extpack
 *.zip
 
 # : - zrfisaac
