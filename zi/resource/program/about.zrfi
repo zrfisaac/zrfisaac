@@ -4,9 +4,9 @@
 # - author : Isaac Santana
 # . - email : zrfisaac@gmail.com
 # . - site : zrfisaac.github.io
-# - base : zrfisaac.zi.research.program.about - 0.0.2
+# - base : none
 # - description : none
-# - version : zrfisaac.zi.resource.program.about - 0.0.1
+# - version : zrfisaac.zi.resource.program.about - 0.0.2
 
 # [ path ]
 
@@ -25,23 +25,115 @@
 # - : git/Git-2.39.2-64-bit.exe
 # . - powershell : https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/Git-2.39.2-64-bit.exe
 
+# - : godot/Godot_v4.0-stable_export_templates.tpz
+# . - powershell : https://github.com/godotengine/godot/releases/download/4.0-stable/Godot_v4.0-stable_export_templates.tpz
+
+# - : godot/Godot_v4.0-stable_win32.exe.zip
+# . - powershell : https://github.com/godotengine/godot/releases/download/4.0-stable/Godot_v4.0-stable_win32.exe.zip
+
+# - : godot/Godot_v4.0-stable_win64.exe.zip
+# . - powershell : https://github.com/godotengine/godot/releases/download/4.0-stable/Godot_v4.0-stable_win64.exe.zip
+
+# - : google-chrome/ChromeSetup.exe
+# . - powershell : https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B97067FA8-3232-6F3A-DD4E-6E5091C39D30%7D%26lang%3Dpt-BR%26browser%3D4%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe
+
+# - : google-drive/GoogleDriveSetup.exe
+# . - powershell : https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe
+
+# - : java/jdk-19_windows-x64_bin.exe
+# . - powershell : https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
+
+# - : mssql/SQLEXPRADV_x64_ENU.2008r2.exe
+# . - powershell : https://download.microsoft.com/download/0/4/B/04BE03CD-EAF3-4797-9D8D-2E08E316C998/SQLEXPRADV_x64_ENU.exe
+
+# - : mssql/SQLEXPRADV_x86_ENU.2008r2.exe
+# . - powershell : https://download.microsoft.com/download/0/4/B/04BE03CD-EAF3-4797-9D8D-2E08E316C998/SQLEXPRADV_x86_ENU.exe
+
+# - : mssql/SQL2019-SSEI-Dev.exe
+# . - powershell : https://go.microsoft.com/fwlink/?linkid=866662
+
+# - : meld/Meld-3.22.0-mingw.msi
+# . - powershell : https://ftp-chi.osuosl.org/pub/gnome/binaries/win32/meld/3.22/Meld-3.22.0-mingw.msi
+
 # - : nodejs/node-v18.15.0-x64.msi
 # . - powershell : https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi
 
 # - : nodejs/node-v18.15.0-x86.msi
 # . - powershell : https://nodejs.org/dist/v18.15.0/node-v18.15.0-x86.msi
 
+# - : notepadpp/npp.8.5.Installer.exe
+# . - powershell : https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5/npp.8.5.Installer.exe
+
+# - : notepadpp/npp.8.5.Installer.x64.exe
+# . - powershell : https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5/npp.8.5.Installer.x64.exe
+
 # - : nsis/nsis-3.08-setup.exe
 # . - powershell : https://downloads.sourceforge.net/project/nsis/NSIS%203/3.08/nsis-3.08-setup.exe
 
+# - : oracle/OracleXE213_Win64.zip
+# . - url : https://www.oracle.com/br/database/technologies/xe-downloads.html
+# . - powershell : https://download.oracle.com/otn-pub/otn_software/db-express/OracleXE213_Win64.zip
+
+# - : postgres/postgresql-15.2-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-15.2-1-windows-x64.exe
+
+# - : postgres/postgresql-14.7-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-14.7-1-windows-x64.exe
+
+# - : postgres/postgresql-13.10-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-13.10-1-windows-x64.exe
+
+# - : postgres/postgresql-12.14-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-12.14-1-windows-x64.exe
+
+# - : postgres/postgresql-11.19-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-11.19-1-windows-x64.exe
+
+# - : postgres/postgresql-10.23-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-10.23-1-windows-x64.exe
+
+# - : postgres/postgresql-10.23-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-10.23-1-windows-x64.exe
+
+# - : postgres/postgresql-9.5.25-1-windows-x64.exe
+# . - url : https://www.postgresql.org/download/windows/
+# . - url : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+# . - powershell : https://get.enterprisedb.com/postgresql/postgresql-9.5.25-1-windows-x64.exe
+
 # - : qbittorrent/qbittorrent_4.5.2_x64_setup.exe
 # . - powershell : https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.5.2/qbittorrent_4.5.2_x64_setup.exe
+
+# - : source-tree/SourceTreeSetup-3.4.12.exe
+# . - powershell : https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.12.exe
+
+# - : steam/SteamSetup.exe
+# . - powershell : https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe
 
 # - : sumatra-pdf/SumatraPDF-3.4.6-install.exe
 # . - powershell : https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-install.exe
 
 # - : sumatra-pdf/SumatraPDF-3.4.6-64-install.exe
 # . - powershell : https://www.sumatrapdfreader.org/dl/rel/3.4.6/SumatraPDF-3.4.6-64-install.exe
+
+# - : virtualbox/Oracle_VM_VirtualBox_Extension_Pack-7.0.6a-155176.vbox-extpack
+# . - powershell : https://download.virtualbox.org/virtualbox/7.0.6/Oracle_VM_VirtualBox_Extension_Pack-7.0.6a-155176.vbox-extpack
+
+# - : virtualbox/VirtualBox-7.0.6-155176-Win.exe
+# . - powershell : https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe
 
 # - : vlc/vlc-3.0.18-win32.exe
 # . - powershell : https://mirror.turbozoneinternet.net.br/videolan/vlc/3.0.18/win32/vlc-3.0.18-win32.exe
