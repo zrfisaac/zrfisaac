@@ -18,7 +18,7 @@ Estou sempre aberto a colaborar, aprender e trocar experiências com a comunidad
 
 ## Contato
 
-- GitHub: [https://github.com/zrfisaac](https://github.com/zrfisaac)  
-- [Seu e-mail ou outra forma de contato, se quiser incluir]
+- Site: [https://zrfisaac.github.io](https://zrfisaac.github.io)  
+- Email: [zrfisaac@gmail.com](mailto:zrfisaac@gmail.com)
 
 Obrigado pela visita! 🚀
