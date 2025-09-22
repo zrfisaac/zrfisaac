@@ -15,6 +15,11 @@
 
 技術的な仕事に加え、**ポルトガル語**、**英語**、**スペイン語**が堪能であり、これにより多様な人々とプロジェクトに関わることができます。
 
+<div>
+  <img style="width:50vw; height:auto;" style="margin:100px" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
+  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
+</div>
+
 -----
 
 ### 💻 技術とスキル

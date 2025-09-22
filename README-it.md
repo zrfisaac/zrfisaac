@@ -15,6 +15,11 @@ Sono un appassionato di tecnologia e apprendimento continuo. Il mio interesse pe
 
 Oltre al mio lavoro tecnico, parlo fluentemente **portoghese**, **inglese** e **spagnolo**, il che mi permette di interagire con una vasta gamma di persone e progetti.
 
+<div>
+  <img style="width:50vw; height:auto;" style="margin:100px" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
+  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
+</div>
+
 -----
 
 ### 💻 Tecnologie e competenze
