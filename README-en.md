@@ -16,8 +16,8 @@ I am a technology enthusiast with a passion for continuous learning. My interest
 In addition to my technical work, I am fluent in **Portuguese**, **English**, and **Spanish**, which allows me to interact with a wide variety of people and projects.
 
 <div>
-  <img height="38vw" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
-  <img height="20vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
+  <img style="width:42vw; height:auto;" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
+  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
 </div>
 
 -----
