@@ -17,7 +17,7 @@ Além do meu trabalho técnico, tenho fluência em **Português**, **Inglês** e
 
 <div>
   <img style="width:38vw; height:auto;" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
-  <img style="width:16vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
+  <img style="width:16vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=donut">
 </div>
 
 -----
