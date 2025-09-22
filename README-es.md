@@ -16,8 +16,8 @@ Soy un entusiasta de la tecnología y el aprendizaje continuo. Mi pasión por la
 Además de mi trabajo técnico, hablo fluidamente **Portugués**, **Inglés** y **Español**, lo que me permite interactuar con una amplia variedad de personas y proyectos.
 
 <div>
-  <img style="width:42vw; height:auto;" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
-  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
+  <img style="width:29vw; height:auto;" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
+  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=donut">
 </div>
 
 -----

@@ -16,8 +16,8 @@
 除了我的技术工作，我还能流利使用**葡萄牙语**、**英语**和**西班牙语**，这使我能够与各种人群和项目进行交流。
 
 <div>
-  <img style="width:42vw; height:auto;" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
-  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=pie">
+  <img style="width:29vw; height:auto;" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&theme=dark">
+  <img style="width:20vw; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrfisaac&theme=dark&layout=donut">
 </div>
 
 -----
