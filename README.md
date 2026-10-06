@@ -7,8 +7,7 @@
 Desenvolvo aplicações, ferramentas e jogos com foco em  
 **simplicidade, utilidade e produto real**.
 
-[![Portfolio](https://img.shields.io/badge/Portfólio-zrfisaac.github.io-E53935?style=for-the-badge&logo=githubpages&logoColor=white)](https://zrfisaac.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-zrfisaac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zrfisaac)
+[![Portfolio](https://img.shields.io/badge/-zrfisaac.github.io-5418ce?style=for-the-badge)](https://zrfisaac.github.io)
 
 </div>
 
