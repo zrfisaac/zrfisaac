@@ -2,7 +2,7 @@
 
 # Isaac Caires Santana
 
-Desenvolvedor de software e jogos, com experiência em Delphi, C#, SQL, Flutter e Godot. Trabalho no desenvolvimento de aplicativos, sistemas e jogos, priorizando simplicidade, desempenho e facilidade de uso.
+Software and game developer with experience in Delphi, C#, SQL, Flutter, and Godot. I develop applications, systems, and games, focusing on simplicity, performance, and ease of use.
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=zrfisaac&show_icons=true&hide_border=true&bg_color=0B1924&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE" />
